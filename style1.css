@@ -1,0 +1,27 @@
+body {
+    background-color: cornflowerblue;
+}
+div {
+    float: left;
+    margin-top: 10%;
+    }
+.r1 {
+    width: 100%;
+    text-align: center;
+    }
+.r2 {
+    width: 100%;
+    text-align: center;
+    font-size: 50px;
+    }
+.b1 {
+    background-color: blue;
+    border: none;
+    color: yellow;
+    width: 100px;
+    font-weight: 200;
+    font-size: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+    }
+
